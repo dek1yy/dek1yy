@@ -1,6 +1,14 @@
-
-
-<!---
-dek1yy/dek1yy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...es.
+блины
+Продукты (на 6 порций)
+Молоко - 500 мл
+Яйца - 3 шт.
+Мука - 190 г (примерно 1,5 стакана объёмом 200 мл)
+Масло растительное - 30 г (2 ст. ложки)
+Сахар - 30 г (2 ст. ложки)
+Соль - 2-3 г (1/2 ч. ложки)
